@@ -1,0 +1,39 @@
+body{
+    padding: 5% 35% 10% 35%;
+    margin: auto;
+}
+input{
+    background-color: cornsilk;
+    border: 2px solid darkgreen;
+}
+.h1,.f1{
+    display: block;
+    margin-top: 2%;
+    color: darkgreen;
+}
+#sum{
+    background-color: aqua;
+    color: darkgreen;
+}
+#sum:hover{
+    background-color: black;
+    color: white;
+}
+.class{
+    display: inline;
+}
+legend{
+    font-weight: bold;
+    font-size: x-large;
+}
+fieldset{
+    background-color: aqua;
+    color: darkgreen;
+}
+div{
+    background-color: aqua;
+    color: darkgreen;
+    border: 5px solid darkgreen;
+    padding: 5% 10% 10% 10%;
+
+}
