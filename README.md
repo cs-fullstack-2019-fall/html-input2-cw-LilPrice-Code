@@ -1,5 +1,6 @@
+Score : 4
 # HTML Input 2 CW
-
+#### Partial : all required fields are not required, email field wrong input type
 Duplicate the form depicted in the included image. Note the following:
 
 * Use placeholders (hints) where shown
